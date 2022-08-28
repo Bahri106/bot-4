@@ -2,10 +2,10 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
+1. *GROUP BOTZ OFFICIAL 1*
+_https://chat.whatsapp.com/CcfG9mg5Vxc9vdV6RfwVmc_
+2. *Maxy Botz Official*
+_https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI
 3. *Alphabot Support 3*
 _https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
 4. *Alphabot Support 4* 
