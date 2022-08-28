@@ -56,12 +56,11 @@ ${numberik}➛Speed : ${latensii.toFixed(4)} Second
 
 ┌❑ *ABOUT* ❑
 │
-├❒ Source
 ├❒ ThanksTo
 ├❒ Group_support
 └❒ Ownerbot
 
-❒ _Creator BotWea © 2K21_ ❒
+❒ _Creator Maxy Botz © KAHFI-XD_ ❒
 `
 }
 const convert = (prefix) => {
